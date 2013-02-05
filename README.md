@@ -12,4 +12,6 @@ Library tested with stock ICS firmware and works fine with BLN Control,
 including PRO version. Modified kernel available at
 https://github.com/samm-git/device_alcatel_OT993D.
 
+TODO: Remove dead code, add defines to remove debugging
+
 (c) Alex Samorukov, 2013
